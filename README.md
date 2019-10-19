@@ -1,5 +1,7 @@
 # GifTastic
 
+https://cedricparages.github.io/GifTastic/
+
 Requirements
 - Generate a set of buttons based on an array of related strings
 - Allow user to create new button based on text input
